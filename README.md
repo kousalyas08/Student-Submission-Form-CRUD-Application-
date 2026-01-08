@@ -1,13 +1,12 @@
-# School Submission Form – Django CRUD Application
+School Submission Form – Django CRUD Application
 
-## 📌 Description
-A simple **School Submission Form** built using **Django and Python** that performs **CRUD operations (Create, Read, Update, Delete)** on student records.
+Description
+A simple School Submission Form built using Django and Python that performs CRUD operations (Create, Read, Update, Delete) on student records.
 
 This project helps beginners understand Django models, views, templates, forms, and database integration.
 
 ---
-
-## ✨ Features
+ Features
 - Add student details  
 - View student list  
 - Update student information  
@@ -16,7 +15,7 @@ This project helps beginners understand Django models, views, templates, forms, 
 
 ---
 
-## 🛠️ Technologies
+ Technologies
 - Python  
 - Django  
 - HTML, CSS  
@@ -24,8 +23,8 @@ This project helps beginners understand Django models, views, templates, forms, 
 
 ---
 
-## 🚀 How to Run
-```bash
+How to Run
+
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
